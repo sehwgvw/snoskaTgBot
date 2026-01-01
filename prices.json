@@ -1,0 +1,15 @@
+{
+    "subscriptions": {
+        "day": {"price": 100, "days": 1, "label": "1 день", "crypto_price": 4, "crypto_currency": "TON"},
+        "week": {"price": 500, "days": 7, "label": "1 неделя", "crypto_price": 20, "crypto_currency": "TON"},
+        "month": {"price": 1500, "days": 30, "label": "1 месяц", "crypto_price": 60, "crypto_currency": "TON"},
+        "3months": {"price": 4000, "days": 90, "label": "3 месяца", "crypto_price": 160, "crypto_currency": "TON"},
+        "year": {"price": 12000, "days": 365, "label": "1 год", "crypto_price": 480, "crypto_currency": "TON"}
+    },
+    "mirror": {"price": 5000, "label": "Платный доступ к зеркалу"},
+    "payment_methods": {
+        "crypto": {"name": "CryptoBot (TON/USDT)", "fee": 0, "enabled": true},
+        "card_rf": {"name": "Карта РФ (рубли)", "fee": 50, "enabled": true},
+        "sbp": {"name": "СБП (рубли)", "fee": 0, "enabled": true}
+    }
+}

@@ -1,0 +1,1 @@
+User @{username} (ID: {id}) is threatening mass casualty events in public spaces.

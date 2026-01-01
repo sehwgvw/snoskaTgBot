@@ -1,0 +1,6 @@
+{
+    "crypto": {"wallet": "U1234567890", "currency": "USDT"},
+    "card_rf": {"number": "2202 1234 5678 9010", "bank": "Тинькофф"},
+    "sbp": {"phone": "+79991234567", "bank": "Сбербанк"},
+    "transactions": []
+}

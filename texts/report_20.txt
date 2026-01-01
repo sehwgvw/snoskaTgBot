@@ -1,0 +1,1 @@
+Please preserve logs for @{username} ({id}); they are distributing critical illegal content.

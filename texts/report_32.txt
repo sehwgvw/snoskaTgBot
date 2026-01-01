@@ -1,0 +1,1 @@
+User @{username} ({id}) is impersonating Telegram Support to steal user sessions.

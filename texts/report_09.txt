@@ -1,0 +1,1 @@
+@{username} ({id}) is using Telegram to bypass anti-terror laws by spreading extremist manifestos.

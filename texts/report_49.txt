@@ -1,0 +1,1 @@
+@{username} (ID: {id}) is inciting a mob to commit racial violence and hate crimes.

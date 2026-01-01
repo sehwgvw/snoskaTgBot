@@ -1,0 +1,1 @@
+@{username} ({id}) is coordinating violent physical attacks on specific individuals.

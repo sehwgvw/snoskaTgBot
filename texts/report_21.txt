@@ -1,0 +1,1 @@
+@{username} (ID: {id}) is operating an automated shop for synthetic narcotics.

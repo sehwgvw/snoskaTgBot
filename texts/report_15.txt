@@ -1,0 +1,1 @@
+I found @{username} (ID: {id}) trading prohibited illegal materials in private group invites.

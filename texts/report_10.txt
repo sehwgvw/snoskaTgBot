@@ -1,0 +1,1 @@
+This user @{username} (ID: {id}) is a known recruiter for prohibited radical movements.
